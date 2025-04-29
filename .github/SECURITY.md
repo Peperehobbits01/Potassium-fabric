@@ -2,11 +2,12 @@
 
 ## Supported Versions
 
-The version currently being supported with security updates.
+The mod version currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| latest  | :white_check_mark: |
+| Version  | Supported          |
+|----------|--------------------|
+| latest   | :white_check_mark: |
+| Previous | :cross_mark:       |
 
 ## Reporting a Vulnerability
 

@@ -3,7 +3,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: [bug, "unverified"]
 assignees:
-  - Peperehobbit01
+  - Peperehobbits01
 body:
   - type: markdown
     attributes:
