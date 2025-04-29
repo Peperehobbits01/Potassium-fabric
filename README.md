@@ -37,7 +37,7 @@ Once you have installed Fabric, place the Hydrogen .jar in the `mods` folder gen
 
 If you'd like to get help with the mod, check out the latest developments, or be notified when there's a new release,
 the Discord community might be for you! You can join the official server for my mods by clicking
-[here](https://jellysquid.me/discord).
+[here](https://discord.gg/AcMaQYkh2H).
 
 ### Building from source
 
